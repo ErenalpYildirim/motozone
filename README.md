@@ -2,6 +2,8 @@
 
 > **🚧 STATUS: WORK IN PROGRESS (Geliştirme Aşamasında) 🚧**
 
+<img src="https://raw.githubusercontent.com/ErenalpYildirim/motozone/main/public/demo.webp" alt="MotoZone Demo" />
+
 MotoZone, motosiklet sürücüleri için özel olarak tasarlanmış, "Swarm" benzeri bir konum tabanlı sosyal ağ uygulamasıdır. Amacımız, sürücülerin anlık konumlarını arkadaşlarıyla paylaşması, bulundukları mekanlarda "check-in" yapabilmesi, yeni sürüş rotaları keşfedebilmesi ve etkinlikler oluşturabilmesini sağlamaktır.
 
 ## 🌟 Özellikler (Mevcut ve Planlanan)
